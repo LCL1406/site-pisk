@@ -20,7 +20,7 @@
  - carrinho de conpras e link para acessar a página da conta do usuário
  - rodapé
 
- - página minha estante *
+ - página minha estante * (EM ANDAMENTO)
  - identificar se esta logado, livros na estante e mensagem para cada situação
 
  - pagina para busca por livros
